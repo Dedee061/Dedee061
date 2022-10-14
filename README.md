@@ -1,5 +1,5 @@
 
-### Olá Eu sou o André Santos 🙂
+### Olá, Eu sou o André Santos 🙂
 
 
 [![Intagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dedee_061/)
